@@ -1,0 +1,6 @@
+n1,n2=int(input("enter")),int(input("enter"))
+print(n1)
+print(n2)
+print(n1,n2)
+n3,n4=int(input()),int(input())
+print(n3,n4)
